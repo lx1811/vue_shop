@@ -1,0 +1,2 @@
+1.创建一个git分支：git checkout -b 分支名称
+  查看分支：git branch

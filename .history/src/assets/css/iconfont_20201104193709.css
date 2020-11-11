@@ -1,0 +1,24 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2181584_sq16bh5hnh8.eot?t=1604489784032'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2181584_sq16bh5hnh8.eot?t=1604489784032#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOQAAsAAAAAB5wAAANEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCcIJaATYCJAMMCwgABCAFhG0HSRuzBhHVm5nIvkiwbR2s36HIJkIYel/FcrHBmiCiuiqyqwdL+ADPnv2zPdsH6HXvCYAEBBUthiGrNv1YVIQ8oWiS8eDTLHUP+n3P8D+X07urxOe3LJc5lh/1AowDCmjsBRJwgQTkHcvrmlSe+eJ6COBMOKlIvQbN2mFFh3QTQIYM7N8Ta0WLPlAoWBHMHWN1ZBEmrNps7R6wUH9ffpEtVtAwKUjfVv3q96HyK1/L1SQHukkE3nZmwJ4ECkgFdJAendZOqCyaisI5lOrDmWZ0BG2rgMOhuZHcfNE/ngZihuS7ApAIMQ2+whkQ+Fo+Dg0ABYCZ24iPBrZhpe/SPZVrYLK/h62urv2zZx0No4PdPnLHscRz9jlG+Z4TsZXG7dY9zvM6+TTcMMa7Sj971KIs3z13b4BMNsovGHPspafscM0eqXWK3XrrKcPow6Rdzs5zVpD7+MsNI2brs7l1UXX2DtvOsfq8y9ydASvXyuQLj1ppE/fsmahN0qRYs1ggngQseMuW+9KOeM4akj5haPosrobXL7at9ezXNeiSW0lNvfvVruWv37l60mJ4bVtpI71raeFmy4rIaumWG2/Lndozvn+v+KkLE21FTRc27GyNkMa2Ho3kLWNhsjSOkEbzuW8rcMbZYtq8em3j8orSzoWdWzQYAw/orFfnd+929UPDEPcxIR4D1yxb4xFRj1oAHNRXRftWa9Q7/pXAkEUL/tk8Sv9bXXQAXt06WgAeB53peqz3YBP4J7yJJXokIDqlB1zOTeyKlvdn1gDYjow/UQzgzdvlcr/J+SBY8StAw0IYKKzEojopFUy4kAtmrFSAMyk0nOyCD6NQiO4EJDMdgeDJQdBw5yIoPLmP6qQ3YMKfP2DGUxQ400F85nQhXvQ1adF7TDTctI5yMTP4JC18YQ5Hb8sCTf7BujVARZrXEw0u2C0GuDiX3jOxlZNqtBmOQ0hb2TD6dPFeV1nGXS9KRzlVolr0HhMNN62jXCwr+6Tx+RfmcPR2ADdk/sG6tXYq0nwC2kivSbhXucTFufSeia2cVCMzDhoV0t2tNow+XRaEdZXhcjxVmh4vP59vFeCsyJbqoYkSHTHgvYhug4N9lpro3rm/2Ekp') format('woff2'),
+  url('//at.alicdn.com/t/font_2181584_sq16bh5hnh8.woff?t=1604489784032') format('woff'),
+  url('//at.alicdn.com/t/font_2181584_sq16bh5hnh8.ttf?t=1604489784032') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2181584_sq16bh5hnh8.svg?t=1604489784032#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconvueShop_user:before {
+  content: "\e600";
+}
+
+.iconvueShop_password:before {
+  content: "\e63e";
+}

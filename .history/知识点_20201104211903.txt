@@ -1,0 +1,7 @@
+1.创建一个git分支：git checkout -b 分支名称
+  查看分支：git branch
+  将所有文件提交到本地：git commit -m "描述"
+  git add .
+  合并分支：git merge 分支名称
+  将本地代码推送到仓库：git push
+  将分支推送到仓库：git push -u origin
